@@ -6,5 +6,4 @@ Para saber se o sidekiq está na memória
 
 `
 ps aux | grep sidekiq
-
 `
